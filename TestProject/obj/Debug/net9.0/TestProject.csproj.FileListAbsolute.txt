@@ -12,3 +12,4 @@ C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\project-work-w
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\project-work-with-variable-data\TestProject\obj\Debug\net9.0\TestProject.pdb
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\project-work-with-variable-data\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\project-work-with-variable-data\TestProject\obj\Debug\net9.0\ref\TestProject.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\project-work-with-variable-data\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
